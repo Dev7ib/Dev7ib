@@ -1,16 +1,15 @@
-### Hi there 👋
+## 🚀 Dev7ib
 
-<!--
-**Dev7ib/Dev7ib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Contact Me At
+<a href="https://discord.com">Discord (7ib#8666)</a>
 
-Here are some ideas to get you started:
+#### Languages
+<img src="https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=Java&logoColor=white"/> 
+<img src="https://img.shields.io/badge/JavaScript-3776AB?style=for-the-badge&logo=Java&logoColor=white"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Statistics
+<details>
+  <summary>:zap: Click to show</summary>
+   <img align="Left" alt="My Stats" src="https://github-readme-stats.vercel.app/api?username=Dev7ib&show_icons=true&hide_border=true&theme=dark" />
+   <img style="float: right;" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev7ib&layout=compact&hide_border=true&theme=dark"/>
+</details>
