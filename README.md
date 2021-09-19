@@ -1,8 +1,7 @@
 ## 🚀 Dev7ib
 
-<p align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/852683595378196480.png" />
-</p>
+### Contact Me At
+<a href="https://discord.com">Discord (7ib#8666)</a>
 
 #### Languages
 <img src="https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=Java&logoColor=white"/> 
